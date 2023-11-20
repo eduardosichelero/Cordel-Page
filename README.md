@@ -8,4 +8,4 @@ Link:
 # Screenshot
 Prévia do projeto :
 
-![screenshot](Screenshot.jpg)
+![screenshot](Screenshot.png)
